@@ -4,6 +4,8 @@ public class BuddyInfo {
 
 	private String name, address, phone;
 
+	/* Constructor
+	*/
 	public BuddyInfo(String name, String address, String phone) {
 		this.name = name;
 		this.address = address;
