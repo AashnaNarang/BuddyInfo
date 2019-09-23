@@ -27,6 +27,5 @@ public class AddressBook {
 		BuddyInfo buddy = new BuddyInfo("Dani", "deerfox drive", "613-234-3333");
 		AddressBook addy = new AddressBook(); 
 		addy.addBuddy(buddy);
-//		addy.removeBuddy(0);
 	}
 }
